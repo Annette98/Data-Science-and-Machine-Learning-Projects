@@ -1,1 +1,1 @@
-Course work projects
+Machine Learning projects
